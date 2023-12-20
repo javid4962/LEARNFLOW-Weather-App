@@ -1,0 +1,16 @@
+/* Sample Changes in Styles */
+.dropdown-item {
+  color: white;
+  background-color: black;
+}
+.dropdown-item:hover {
+  color: black;
+}
+.card {
+  background-color: black;
+  color: white;
+}
+
+.placeholder::placeholder {
+  color: white;
+}
